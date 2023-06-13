@@ -1,2 +1,2 @@
 # Autonomous-Trashcan
-自動垃圾桶測試github
+自動垃圾桶測試
