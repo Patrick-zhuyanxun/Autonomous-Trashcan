@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Django/Database" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ROS/src/darknet_ros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ROS/src/darknet_ros/darknet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ROS/src/hls_lfcd_lds_driver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ROS/src/rplidar_ros/rplidar_ros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ROS/src/rrt_exploration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ROS/src/usb_cam" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ROS/src/web_video_server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ROS/src/world_canvas_msgs" vcs="Git" />
+  </component>
+</project>
