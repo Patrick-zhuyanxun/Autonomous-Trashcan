@@ -1,0 +1,13 @@
+.video{
+    width: 70vw;
+    height: auto;
+     pointer-events: none;
+}
+.video::-webkit-media-controls {
+    display: none !important;
+  }
+  .gif{
+    width: 70vw;
+    height: auto;
+     pointer-events: none;
+}

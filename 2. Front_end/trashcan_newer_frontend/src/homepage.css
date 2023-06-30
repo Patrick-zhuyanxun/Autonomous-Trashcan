@@ -1,0 +1,386 @@
+body {
+  background-color: #F0ECE2;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  padding-bottom: 80px;
+}
+.heading{
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  padding-bottom: 1vh;
+}
+.cslicon{
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+.title{
+  /* width: 55vw; */
+  width: 200px;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+display: flex;
+margin-top: 5px;
+justify-content: flex-start;
+align-items: center;
+flex-direction: column;
+text-align: center;
+}
+.checkstate{
+  position: fixed;
+  bottom: 8vh;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  width: 60px;
+  height:60px;
+  margin-top: auto;
+  height: auto;
+  z-index: 1000;
+  border-radius: 50%;
+  border: none;
+  background-color: #C7B198;
+  text-align: center;
+  line-height: 60px;
+  cursor: pointer;
+}
+textinhomepage {
+  display: flex;
+  font-size: 12px;
+  justify-content: space-between;
+  /* font-family: 'Times New Roman', Times, serif; */
+  /* font-style: italic; */
+  /* padding: 10px; */
+}
+textinhomepagerank {
+  display: flex;
+  font-size: 24px;
+  padding-bottom: 10px;
+  text-align: left;
+  /* font-family: 'Times New Roman', Times, serif; */
+  /* font-style: italic; */
+}
+textinhomepagecapacity {
+  display: flex;
+  font-size: 24px;
+  justify-content: space-between;
+  /* font-family: 'Times New Roman', Times, serif; */
+  /* font-style: italic; */
+}
+textinhomepageranknumber {
+  display: flex;
+  font-size: 36px;
+  font-weight: 500;
+  color: #FFFFFF;
+  padding-top: 5px;
+  text-align: center;
+  /* font-family: 'Times New Roman', Times, serif; */
+  /* font-style: italic; */
+}
+textinhomepagetitle {
+  display: flex;
+  font-size: 24px;
+  font-weight: 500;
+  /* color: #F0ECE2; */
+  /* color: #FFFFFF; */
+  justify-content: center;
+  /* font-family: 'Times New Roman', Times, serif; */
+  /* font-style: italic; */
+}
+textinhomepageright {
+  display: flex;
+  font-size: 24px;
+  justify-content: right;
+  padding-right: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  /* font-style: italic; */
+}
+textinhomepageleft {
+  display: flex;
+  font-size: 24px;
+  justify-content: left;
+  padding-left: 10px;
+  /* font-family: 'Times New Roman', Times, serif; */
+  /* font-style: italic; */
+}
+textinhomepageuserid {
+  display: flex;
+  font-size: 24px;
+  justify-content: left;
+  padding-left: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic; 
+}
+.button-container {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  margin-top: auto;
+  height: auto;
+  z-index: 999;
+}
+.button-homepage-use{
+  flex: 1;
+  max-width: 100%;
+  width: 33.3vw;
+  padding: 10px;
+  padding-bottom: 2vh;
+  border: none;
+  border-radius: none;
+  background-color: #C7B198;
+  color: #212121;
+  font-size: 12px;
+  cursor: pointer;
+  margin: 0px;
+}
+.button-homepage {
+  flex: 1;
+  max-width: 100%;
+  width: 33.3vw;
+  padding: 10px;
+  padding-bottom: 2vh;
+  border: none;
+  border-radius: none;
+  background-color: #DFD3C3;
+  color: #212121;
+  font-size: 12px;
+  cursor: pointer;
+  margin: 0px;
+}
+.button-homepage-rank {
+  flex: flex;
+  max-width: 100%;
+  width: 42.5vw;
+  height: auto;
+  padding: 10px;
+  border: none;
+  border-radius: none;
+  background-color: #C7B198;
+  color: #F0ECE2;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 5vh;
+  border-radius: 5px;
+}
+.logo-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin-top: 2vh; */
+  gap: 5vw;
+}
+.logo1{
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  background-image: url('../public/litter.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  transform: translate(0%, 0%);
+  padding: 10px;
+  margin-top: 10px;
+}
+.logo2{
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  background-image: url('../public/triangular-arrows-sign-for-recycle.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  transform: translate(0%, 0%);
+  padding: 10px;
+  margin-top: 10px;
+}
+.logo3{
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  background-image: url('../public/recycle-bin-weight.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  transform: translate(0%, 0%);
+}
+.logo4{
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  background-image: url('../public/home.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  transform: translate(0%, 0%);
+}
+.logo5{
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  background-image: url('../public/wifi-signal.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  transform: translate(0%, 0%);
+}
+.logo6{
+  min-width: 30px;
+  min-height: 30px;
+  text-align: center;
+  background-image: url('../public/recycle-bin.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  transform: translate(0%, 0%);
+  padding: 10px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+.logo7{
+  min-width: 30px;
+  min-height: 30px;
+  text-align: center;
+  background-image: url('../public/box.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  transform: translate(0%, 0%);
+  padding: 10px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+.logo8{
+  min-width: 30px;
+  min-height: 30px;
+  text-align: center;
+  background-image: url('../public/water.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  transform: translate(0%, 0%);
+  padding: 10px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+.logo9{
+  min-width: 30px;
+  min-height: 30px;
+  text-align: center;
+  background-image: url('../public/plus.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  transform: translate(0%, 0%);
+  padding: 10px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+.logo10{
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  background-image: url('../public/trashcan1.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  transform: translate(0%, 0%);
+  padding: 10px;
+  margin-top: 10px;
+}
+.logo11{
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  background-image: url('../public/trashcan2.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  transform: translate(0%, 0%);
+  padding: 10px;
+  margin-top: 10px;
+}
+.icon-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.capacity-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button:last-child {
+  margin-right: 0;
+}
+.rectangle-lay {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90vw;
+  height: 12vh;
+  background-color: #F0ECE2;
+  border-radius: 15px;
+  font-size: 32px;
+  text-align: center;
+  border: 1px solid #212121;
+}
+.group-text{
+  display: flex;
+  align-items: center;
+} 
+.slider {
+  display: flex;
+  justify-content: flex-start;
+  width: 90vw;
+  min-height: 200px;
+  overflow: auto;
+  /*background-color:#DFD3C3; */
+  background-color: #C7B198; 
+  border-radius: 15px;
+  font-size: 32px;
+  text-align: center;
+  border: 1px solid #212121;
+  align-items: center;
+  margin-top: 4vh ;
+}
+
+.slider-content {
+  min-width: 160px;
+  min-height: 180px; /* 要滑動的內容的高度 */
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+  background-color: #F0ECE2;
+  /* background-color:#DFD3C3; */
+  border-radius: 15px;
+  font-size: 32px;
+  text-align: center;
+  border: 1px solid #212121;
+  margin-left: 1.5vw;
+  margin-right: 1.5vw;
+}

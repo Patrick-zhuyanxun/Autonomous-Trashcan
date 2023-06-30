@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.parent {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-image: url('../public/background1.jpg');
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.childbutton {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  display: inline-block;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #5406ef;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+/* 容器元素在這裡不再需要 */

@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .image-wrapper {
+    position: relative;
+    width: 300px;
+    height: 300px;
+  }
+  
+  .image-wrapper img {
+    max-width: 100%;
+    max-height: 100%;
+    width: 200px;
+    height: 200px;
+  }
+  
+
+.button1{
+    display: inline-block;
+    padding: 1vh;
+    border: none;
+    border-radius: 5px;
+    background-color: #5406ef;
+    color: white;
+    font-size: 1.6vw;
+    cursor: pointer;
+}
+
+.button2 {
+    position: absolute;
+    top: 2vh;
+    left: 2vw;
+    display: inline-block;
+    padding: 1vh;
+    border: none;
+    border-radius: 5px;
+    background-color: #5406ef;
+    color: white;
+    font-size: 1.6vw;
+    cursor: pointer;
+    margin-right: 1vw;
+  }

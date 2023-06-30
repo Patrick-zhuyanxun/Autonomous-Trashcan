@@ -1,0 +1,51 @@
+.checkbox-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 70vw;
+}
+
+.checkbox-option {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  font-size: 36px;
+}
+
+input[type="checkbox"] {
+  background-color: #596E79;
+  margin-right: 10px;
+  transform: scale(2);
+  order: 2;
+}
+input[type="checkbox"]:checked::after {
+  margin-right: 10px;
+  transform: scale(2);
+  order: 2;
+  background-color: #596E79;
+} 
+.call-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5vw;
+  margin-top: auto;
+  height: auto;
+  z-index: 999;
+}
+.buttonsubmit{
+  margin-top: 4vh; /* 使用 vh 單位 */
+  padding: 2vh 4vw; /* 使用 vw 和 vh 單位 */
+  font-size: 2.5vh; /* 使用 vh 單位 */
+  background-color: #596E79;
+  width: 30vw;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+} 
+.buttonsubmit:disabled {
+  opacity: 0.2;
+}
+
