@@ -222,4 +222,4 @@ line 32 改為stm32的串口名稱
 
 ![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/013.png))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/013.png)
 ## 8. API格式
-![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/014.jpg))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/014.jpg)
+![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/014.png))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/014.png)
