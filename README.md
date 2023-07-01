@@ -73,11 +73,11 @@ https://youtu.be/4PowflGdkpY
 ## 2. Hardware
 
 ### 2-1 垃圾桶蓋電路
-![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/008.png))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/008.png)
+![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/008.jpg))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/008.jpg)
 
 ### 2-2 垃圾桶硬體架構
 
-![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/009.png))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/009.png)
+![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/009.jpg))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/009.jpg)
 
 ### 2-3 使用之感測器、元件型號總整理
 
@@ -138,7 +138,7 @@ const socket = io.connect("http://192.168.74.156:4040");
 
 ## 5. Django
 
-![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/012.png))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/012.png)
+![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/012.jpg))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/012.jpg)
 
 ### Version
 
@@ -222,3 +222,4 @@ line 32 改為stm32的串口名稱
 
 ![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/013.png))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/013.png)
 ## 8. API格式
+![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/014.jpg))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/014.jpg)
