@@ -2,7 +2,7 @@
 
 # Autonomous-Trashcan
 
-![View Trash Can](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/000.png))
+![View Trash Can]([https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/000.png))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/000.png)
 
 ## 0.Introduction
 
