@@ -103,7 +103,7 @@ Step2:開啟terminal並cd進入’trashcan_newer_frontend’
 
 Step3:下載下方API並指定版本
 
-![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/010.png))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/010.png)
+![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/010.jpg))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/010.jpg)
 
 Step4:輸入’npm start’，前端server開始運行
 
