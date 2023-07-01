@@ -24,15 +24,15 @@ https://youtu.be/4PowflGdkpY
 
 ### 0-3-1 定點呼叫
 
-![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/001.png))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/001.png)
+![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/001.jpg))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/001.jpg)
 
 ### 0-3-2 按鈕開啟
 
-![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/002.png))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/002.png)
+![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/002.jpg))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/002.jpg)
 
 ### 0-3-3 掃描qr code
 
-![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/003.png))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/003.png)
+![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/003.jpg))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/003.jpg)
 
 ## 1. Mechanism
 
@@ -40,7 +40,7 @@ https://youtu.be/4PowflGdkpY
 
 ### 1-1 底盤部分:
 
-![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/004.png))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/004.png)
+![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/004.jpg))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/004.jpg)
 
 (1) 選用**輪趣科技**所推出之圓形常規[高配版全向輪機器人](https://wheeltec.net/product/html/?176.html)，底盤直徑為390mm，負重能力為15kg，後期在上方又加上一塊厚度3mm之壓克力板，將垃圾桶固定於底盤上方。
 
@@ -56,11 +56,11 @@ https://youtu.be/4PowflGdkpY
 
   選用IKEA 的****[KNÖCKLA](https://www.ikea.com.tw/zh/search/?q=KN%C3%96CKLA)****垃圾桶進行改裝，容量為25公升型，內部有兩個內桶，可以放置兩種不同類型之垃圾或回收，並在垃圾桶底部開孔，安裝重量感測器量測垃圾重量。
 
-![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/005.png))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/005.png)
+![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/005.jpg))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/005.jpg)
 
 1-2-2 **蓋子:**
 
-![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/006.png))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/006.png)
+![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/006.jpg))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/006.jpg)
 
 (1) 蓋子實體圖如上圖，整體皆以3d列印製作而成，上方搭載了兩顆HC-SR04超聲波感測模組，用以量測垃圾桶容量。
 
