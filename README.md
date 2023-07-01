@@ -2,7 +2,7 @@
 
 # Autonomous-Trashcan
 
-![View Trash Can](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fe29f3e7-e8d3-45ed-b9e2-e3f476d670a6/vlcsnap-2023-07-01-09h22m15s735.png)
+![View Trash Can]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fe29f3e7-e8d3-45ed-b9e2-e3f476d670a6/vlcsnap-2023-07-01-09h22m15s735.png](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/000.png))
 
 ## 0.Introduction
 
