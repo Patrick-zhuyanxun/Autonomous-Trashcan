@@ -132,6 +132,7 @@ const socket = io.connect("http://192.168.74.156:4040");
 (3) 選擇工具/開發板：
 
 ![https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/7.document/011.png))](https://github.com/Patrick-zhuyanxun/Autonomous-Trashcan/blob/main/7.%20document/011.png)
+
 (4) 編譯並燒錄即可
 
 ## 5. Django
